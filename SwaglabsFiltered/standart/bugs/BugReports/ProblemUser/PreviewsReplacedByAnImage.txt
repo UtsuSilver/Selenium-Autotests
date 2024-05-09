@@ -1,0 +1,18 @@
+Issue Title - Wrong item previews
+Issue Type - Bug
+Issue Status - New
+Author - Utsu
+Priority - Medium
+Severity - Critical
+Build -
+Enviroment - Google Chrome version 122.0.6261.95
+
+Description -
+
+Steps to reproduce 
+1. Visit https://www.saucedemo.com/
+2. Fill username "problem_user" and password "secret_sauce"
+
+Expected result - Every item has own preview image set by a seller
+
+Actual result - All items previews are replaced by a dog image 

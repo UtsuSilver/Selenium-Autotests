@@ -1,0 +1,18 @@
+Issue Title - Bottom right item with wrong button placement 
+Issue Status - New
+Author - Utsu
+Priority - High
+Severity - Low
+Build -
+Enviroment -  Google Chrome version 122.0.6261.95
+
+Description -
+
+Steps to reproduce 
+1. Visit httpswww.saucedemo.com
+2. Fill username problem_user and password secret_sauce
+
+Expected result - Add to cart button of the bottom right item should allign with
+other Add to cart button
+
+Actual result - It is shifted too right and doesnt allign

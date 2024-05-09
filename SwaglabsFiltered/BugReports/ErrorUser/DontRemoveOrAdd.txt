@@ -1,0 +1,20 @@
+Issue Title - Remove and add to cart button doesnt work on main page
+Issue Status - New
+Author - Utsu
+Priority - Medium
+Severity - Major
+Build -
+Enviroment - Google Chrome version 122.0.6261.95
+
+Description - Remove button doesnt work but item can be removed in a cart menu with remove button there
+
+Steps to reproduce 
+1. Visit https://www.saucedemo.com/
+2. Fill username "problem_user" and password "secret_sauce"
+3. Press "Add to cart" button on all items
+4. Press "Remove" button that appears instead of "Add to cart"
+
+Expected result - Remove button is replaced by Add to cart and adds items to the cart
+
+Actual result - Remove button stays. And doesnt remove item from a cart. 
+Add to cart doesnt work on specific items like tshirt jacket and red tshirt

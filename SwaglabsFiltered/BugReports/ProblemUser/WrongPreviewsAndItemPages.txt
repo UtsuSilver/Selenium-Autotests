@@ -1,0 +1,19 @@
+Issue Title - Wrong previews and item pages
+Issue Status - New
+Author - Utsu
+Priority - Medium/High
+Severity - Critical
+Build -
+Enviroment -  Google Chrome version 122.0.6261.95
+
+Description - On the main page and individual item page goods have different pictures
+and description
+
+Steps to reproduce 
+1. Visit httpswww.saucedemo.com
+2. Fill username problem_user and password secret_sauce
+3. Open any item page 
+
+Expected result - Opens a page with an item mentioned in a preview text and picture
+
+Actual result - Opens a page with different item. Or item not found page

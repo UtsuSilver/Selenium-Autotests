@@ -1,0 +1,25 @@
+Issue Title - OrderDoesntWork
+Issue Type - Bug
+Issue Status - New
+Author - Utsu
+Priority - Medium
+Severity - Critical
+Build -
+Enviroment - Google Chrome version 122.0.6261.95
+
+Description -
+
+Steps to reproduce 
+1. Visit https://www.saucedemo.com/
+2. Fill username "problem_user" and password "secret_sauce"
+3. Press "Add to cart" button on any item
+4. Go to cart
+5. Press "Checkout" 
+6. Fill the fields
+7. Press continue
+
+Expected result - you will be moved to the next page to confirm order
+
+Actual result - field "Last Name" cannot be filled. Impossible to move to the next page
+Anything you write in Last Name will replace info in the First Name field.
+

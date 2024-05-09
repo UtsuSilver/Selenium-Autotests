@@ -1,0 +1,18 @@
+Issue Title - Cart button is placed wrong 
+Issue Status - New
+Author - Utsu
+Priority - High
+Severity - low
+Build -
+Enviroment -  Google Chrome version 122.0.6261.95
+
+Description -
+
+Steps to reproduce 
+1. Visit httpswww.saucedemo.com
+2. Fill username problem_user and password secret_sauce
+
+
+Expected result - cart is placed in the top right corner
+
+Actual result - cart is placed over the filter button 

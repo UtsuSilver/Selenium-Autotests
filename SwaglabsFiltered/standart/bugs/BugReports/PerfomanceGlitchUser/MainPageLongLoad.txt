@@ -1,0 +1,18 @@
+Issue Title - Main page long load
+Issue Type - Bug
+Issue Status - New
+Author - Utsu
+Priority - Medium
+Severity - Low
+Build -
+Enviroment - Google Chrome version 122.0.6261.95
+
+Description -
+
+Steps to reproduce 
+1. Visit https://www.saucedemo.com/
+2. Fill username "perfomance_glitch_user" and password "secret_sauce"
+
+Expected result - page loads within a couple of seconds 
+
+Actual result - page loads within dozens of seconds

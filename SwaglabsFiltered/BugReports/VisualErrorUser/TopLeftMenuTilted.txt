@@ -1,0 +1,17 @@
+Issue Title - Menu Image is tilted
+Issue Status - New
+Author - Utsu
+Priority - High
+Severity - Low
+Build -
+Enviroment -  Google Chrome version 122.0.6261.95
+
+Description -
+
+Steps to reproduce 
+1. Visit httpswww.saucedemo.com
+2. Fill username problem_user and password secret_sauce
+
+Expected result - Top left menu is shown as 3 paralel lines
+
+Actual result - Top left menu is shown as 3 tilted lines 

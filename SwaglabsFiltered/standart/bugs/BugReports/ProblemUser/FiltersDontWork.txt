@@ -1,0 +1,19 @@
+Issue Title - Remove button doesnt work on main page
+Issue Type - Bug
+Issue Status - New
+Author - Utsu
+Priority - Medium
+Severity - Medium
+Build -
+Enviroment - Google Chrome version 122.0.6261.95
+
+Description -
+
+Steps to reproduce 
+1. Visit https://www.saucedemo.com/
+2. Fill username "problem_user" and password "secret_sauce"
+3.Change the filter to a different one
+
+Expected result - Items are filtered in a set order
+
+Actual result - items arent filtered. Everything stays the same
